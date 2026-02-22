@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**tuq21859-boop/tuq21859-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hello! My name is Salina Zhang and I am a sophomore studying Chemistry at Temple University ^-^
+##Hello! My name is Salina Zhang and I am a sophomore studying Chemistry at Temple University ^-^
+##My academic interests lies within chemical synthesis, whether it be synthesizing pharmceutical relevant compounds in organic chemisrty or exploring how synthesize plays a role in material science.
+##Beyong academics, I am interested in playing badminton!
